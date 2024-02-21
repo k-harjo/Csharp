@@ -1,0 +1,11 @@
+C:\Users\khbil\source\repos\15.9_RestaurantBillCalc\bin\Debug\15.9_RestaurantBillCalc.exe.config
+C:\Users\khbil\source\repos\15.9_RestaurantBillCalc\bin\Debug\15.9_RestaurantBillCalc.exe
+C:\Users\khbil\source\repos\15.9_RestaurantBillCalc\bin\Debug\15.9_RestaurantBillCalc.pdb
+C:\Users\khbil\source\repos\15.9_RestaurantBillCalc\obj\Debug\15.9_RestaurantBillCalc.csproj.AssemblyReference.cache
+C:\Users\khbil\source\repos\15.9_RestaurantBillCalc\obj\Debug\15.9_RestaurantBillCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\khbil\source\repos\15.9_RestaurantBillCalc\obj\Debug\_15._9_RestaurantBillCalc.Form1.resources
+C:\Users\khbil\source\repos\15.9_RestaurantBillCalc\obj\Debug\_15._9_RestaurantBillCalc.Properties.Resources.resources
+C:\Users\khbil\source\repos\15.9_RestaurantBillCalc\obj\Debug\15.9_RestaurantBillCalc.csproj.GenerateResource.cache
+C:\Users\khbil\source\repos\15.9_RestaurantBillCalc\obj\Debug\15.9_RestaurantBillCalc.csproj.CoreCompileInputs.cache
+C:\Users\khbil\source\repos\15.9_RestaurantBillCalc\obj\Debug\15.9_RestaurantBillCalc.exe
+C:\Users\khbil\source\repos\15.9_RestaurantBillCalc\obj\Debug\15.9_RestaurantBillCalc.pdb

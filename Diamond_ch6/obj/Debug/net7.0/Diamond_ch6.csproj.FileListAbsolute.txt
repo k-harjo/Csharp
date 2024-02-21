@@ -1,0 +1,15 @@
+C:\Users\khbil\source\repos\Diamond_ch6\bin\Debug\net7.0\Diamond_ch6.exe
+C:\Users\khbil\source\repos\Diamond_ch6\bin\Debug\net7.0\Diamond_ch6.deps.json
+C:\Users\khbil\source\repos\Diamond_ch6\bin\Debug\net7.0\Diamond_ch6.runtimeconfig.json
+C:\Users\khbil\source\repos\Diamond_ch6\bin\Debug\net7.0\Diamond_ch6.dll
+C:\Users\khbil\source\repos\Diamond_ch6\bin\Debug\net7.0\Diamond_ch6.pdb
+C:\Users\khbil\source\repos\Diamond_ch6\obj\Debug\net7.0\Diamond_ch6.csproj.AssemblyReference.cache
+C:\Users\khbil\source\repos\Diamond_ch6\obj\Debug\net7.0\Diamond_ch6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khbil\source\repos\Diamond_ch6\obj\Debug\net7.0\Diamond_ch6.AssemblyInfoInputs.cache
+C:\Users\khbil\source\repos\Diamond_ch6\obj\Debug\net7.0\Diamond_ch6.AssemblyInfo.cs
+C:\Users\khbil\source\repos\Diamond_ch6\obj\Debug\net7.0\Diamond_ch6.csproj.CoreCompileInputs.cache
+C:\Users\khbil\source\repos\Diamond_ch6\obj\Debug\net7.0\Diamond_ch6.dll
+C:\Users\khbil\source\repos\Diamond_ch6\obj\Debug\net7.0\refint\Diamond_ch6.dll
+C:\Users\khbil\source\repos\Diamond_ch6\obj\Debug\net7.0\Diamond_ch6.pdb
+C:\Users\khbil\source\repos\Diamond_ch6\obj\Debug\net7.0\Diamond_ch6.genruntimeconfig.cache
+C:\Users\khbil\source\repos\Diamond_ch6\obj\Debug\net7.0\ref\Diamond_ch6.dll

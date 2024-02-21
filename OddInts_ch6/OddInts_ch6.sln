@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddInts_ch6", "OddInts_ch6.csproj", "{A51D8CE1-7D3C-4DFC-8556-513ABED0F89C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A51D8CE1-7D3C-4DFC-8556-513ABED0F89C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A51D8CE1-7D3C-4DFC-8556-513ABED0F89C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A51D8CE1-7D3C-4DFC-8556-513ABED0F89C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A51D8CE1-7D3C-4DFC-8556-513ABED0F89C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3C00E9E-1E97-4FD1-8DF0-C4AEF78B4BB4}
+	EndGlobalSection
+EndGlobal

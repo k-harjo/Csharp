@@ -1,0 +1,15 @@
+C:\Users\khbil\source\repos\ParkingCharges_ch7\bin\Debug\net7.0\ParkingCharges_ch7.exe
+C:\Users\khbil\source\repos\ParkingCharges_ch7\bin\Debug\net7.0\ParkingCharges_ch7.deps.json
+C:\Users\khbil\source\repos\ParkingCharges_ch7\bin\Debug\net7.0\ParkingCharges_ch7.runtimeconfig.json
+C:\Users\khbil\source\repos\ParkingCharges_ch7\bin\Debug\net7.0\ParkingCharges_ch7.dll
+C:\Users\khbil\source\repos\ParkingCharges_ch7\bin\Debug\net7.0\ParkingCharges_ch7.pdb
+C:\Users\khbil\source\repos\ParkingCharges_ch7\obj\Debug\net7.0\ParkingCharges_ch7.csproj.AssemblyReference.cache
+C:\Users\khbil\source\repos\ParkingCharges_ch7\obj\Debug\net7.0\ParkingCharges_ch7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khbil\source\repos\ParkingCharges_ch7\obj\Debug\net7.0\ParkingCharges_ch7.AssemblyInfoInputs.cache
+C:\Users\khbil\source\repos\ParkingCharges_ch7\obj\Debug\net7.0\ParkingCharges_ch7.AssemblyInfo.cs
+C:\Users\khbil\source\repos\ParkingCharges_ch7\obj\Debug\net7.0\ParkingCharges_ch7.csproj.CoreCompileInputs.cache
+C:\Users\khbil\source\repos\ParkingCharges_ch7\obj\Debug\net7.0\ParkingCharges_ch7.dll
+C:\Users\khbil\source\repos\ParkingCharges_ch7\obj\Debug\net7.0\refint\ParkingCharges_ch7.dll
+C:\Users\khbil\source\repos\ParkingCharges_ch7\obj\Debug\net7.0\ParkingCharges_ch7.pdb
+C:\Users\khbil\source\repos\ParkingCharges_ch7\obj\Debug\net7.0\ParkingCharges_ch7.genruntimeconfig.cache
+C:\Users\khbil\source\repos\ParkingCharges_ch7\obj\Debug\net7.0\ref\ParkingCharges_ch7.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ParkingCharges_ch7/1.0.0": {
+        "runtime": {
+          "ParkingCharges_ch7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ParkingCharges_ch7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

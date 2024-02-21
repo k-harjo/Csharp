@@ -1,0 +1,15 @@
+C:\Users\khbil\source\repos\GasMileage_ch5\bin\Debug\net7.0\GasMileage_ch5.exe
+C:\Users\khbil\source\repos\GasMileage_ch5\bin\Debug\net7.0\GasMileage_ch5.deps.json
+C:\Users\khbil\source\repos\GasMileage_ch5\bin\Debug\net7.0\GasMileage_ch5.runtimeconfig.json
+C:\Users\khbil\source\repos\GasMileage_ch5\bin\Debug\net7.0\GasMileage_ch5.dll
+C:\Users\khbil\source\repos\GasMileage_ch5\bin\Debug\net7.0\GasMileage_ch5.pdb
+C:\Users\khbil\source\repos\GasMileage_ch5\obj\Debug\net7.0\GasMileage_ch5.csproj.AssemblyReference.cache
+C:\Users\khbil\source\repos\GasMileage_ch5\obj\Debug\net7.0\GasMileage_ch5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khbil\source\repos\GasMileage_ch5\obj\Debug\net7.0\GasMileage_ch5.AssemblyInfoInputs.cache
+C:\Users\khbil\source\repos\GasMileage_ch5\obj\Debug\net7.0\GasMileage_ch5.AssemblyInfo.cs
+C:\Users\khbil\source\repos\GasMileage_ch5\obj\Debug\net7.0\GasMileage_ch5.csproj.CoreCompileInputs.cache
+C:\Users\khbil\source\repos\GasMileage_ch5\obj\Debug\net7.0\GasMileage_ch5.dll
+C:\Users\khbil\source\repos\GasMileage_ch5\obj\Debug\net7.0\refint\GasMileage_ch5.dll
+C:\Users\khbil\source\repos\GasMileage_ch5\obj\Debug\net7.0\GasMileage_ch5.pdb
+C:\Users\khbil\source\repos\GasMileage_ch5\obj\Debug\net7.0\GasMileage_ch5.genruntimeconfig.cache
+C:\Users\khbil\source\repos\GasMileage_ch5\obj\Debug\net7.0\ref\GasMileage_ch5.dll

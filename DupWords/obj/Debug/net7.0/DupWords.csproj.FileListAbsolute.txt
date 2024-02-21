@@ -1,0 +1,15 @@
+C:\Users\khbil\source\repos\DupWords\obj\Debug\net7.0\DupWords.csproj.AssemblyReference.cache
+C:\Users\khbil\source\repos\DupWords\obj\Debug\net7.0\DupWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khbil\source\repos\DupWords\obj\Debug\net7.0\DupWords.AssemblyInfoInputs.cache
+C:\Users\khbil\source\repos\DupWords\obj\Debug\net7.0\DupWords.AssemblyInfo.cs
+C:\Users\khbil\source\repos\DupWords\obj\Debug\net7.0\DupWords.csproj.CoreCompileInputs.cache
+C:\Users\khbil\source\repos\DupWords\bin\Debug\net7.0\DupWords.exe
+C:\Users\khbil\source\repos\DupWords\bin\Debug\net7.0\DupWords.deps.json
+C:\Users\khbil\source\repos\DupWords\bin\Debug\net7.0\DupWords.runtimeconfig.json
+C:\Users\khbil\source\repos\DupWords\bin\Debug\net7.0\DupWords.dll
+C:\Users\khbil\source\repos\DupWords\bin\Debug\net7.0\DupWords.pdb
+C:\Users\khbil\source\repos\DupWords\obj\Debug\net7.0\DupWords.dll
+C:\Users\khbil\source\repos\DupWords\obj\Debug\net7.0\refint\DupWords.dll
+C:\Users\khbil\source\repos\DupWords\obj\Debug\net7.0\DupWords.pdb
+C:\Users\khbil\source\repos\DupWords\obj\Debug\net7.0\DupWords.genruntimeconfig.cache
+C:\Users\khbil\source\repos\DupWords\obj\Debug\net7.0\ref\DupWords.dll

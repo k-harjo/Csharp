@@ -1,0 +1,15 @@
+C:\Users\khbil\source\repos\12_9_payroll\obj\Debug\net7.0\12_9_payroll.csproj.AssemblyReference.cache
+C:\Users\khbil\source\repos\12_9_payroll\obj\Debug\net7.0\12_9_payroll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khbil\source\repos\12_9_payroll\obj\Debug\net7.0\12_9_payroll.AssemblyInfoInputs.cache
+C:\Users\khbil\source\repos\12_9_payroll\obj\Debug\net7.0\12_9_payroll.AssemblyInfo.cs
+C:\Users\khbil\source\repos\12_9_payroll\obj\Debug\net7.0\12_9_payroll.csproj.CoreCompileInputs.cache
+C:\Users\khbil\source\repos\12_9_payroll\bin\Debug\net7.0\12_9_payroll.exe
+C:\Users\khbil\source\repos\12_9_payroll\bin\Debug\net7.0\12_9_payroll.deps.json
+C:\Users\khbil\source\repos\12_9_payroll\bin\Debug\net7.0\12_9_payroll.runtimeconfig.json
+C:\Users\khbil\source\repos\12_9_payroll\bin\Debug\net7.0\12_9_payroll.dll
+C:\Users\khbil\source\repos\12_9_payroll\bin\Debug\net7.0\12_9_payroll.pdb
+C:\Users\khbil\source\repos\12_9_payroll\obj\Debug\net7.0\12_9_payroll.dll
+C:\Users\khbil\source\repos\12_9_payroll\obj\Debug\net7.0\refint\12_9_payroll.dll
+C:\Users\khbil\source\repos\12_9_payroll\obj\Debug\net7.0\12_9_payroll.pdb
+C:\Users\khbil\source\repos\12_9_payroll\obj\Debug\net7.0\12_9_payroll.genruntimeconfig.cache
+C:\Users\khbil\source\repos\12_9_payroll\obj\Debug\net7.0\ref\12_9_payroll.dll

@@ -1,0 +1,15 @@
+C:\Users\khbil\source\repos\AirlineRes\obj\Debug\net7.0\AirlineRes.csproj.AssemblyReference.cache
+C:\Users\khbil\source\repos\AirlineRes\obj\Debug\net7.0\AirlineRes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khbil\source\repos\AirlineRes\obj\Debug\net7.0\AirlineRes.AssemblyInfoInputs.cache
+C:\Users\khbil\source\repos\AirlineRes\obj\Debug\net7.0\AirlineRes.AssemblyInfo.cs
+C:\Users\khbil\source\repos\AirlineRes\obj\Debug\net7.0\AirlineRes.csproj.CoreCompileInputs.cache
+C:\Users\khbil\source\repos\AirlineRes\bin\Debug\net7.0\AirlineRes.exe
+C:\Users\khbil\source\repos\AirlineRes\bin\Debug\net7.0\AirlineRes.deps.json
+C:\Users\khbil\source\repos\AirlineRes\bin\Debug\net7.0\AirlineRes.runtimeconfig.json
+C:\Users\khbil\source\repos\AirlineRes\bin\Debug\net7.0\AirlineRes.dll
+C:\Users\khbil\source\repos\AirlineRes\bin\Debug\net7.0\AirlineRes.pdb
+C:\Users\khbil\source\repos\AirlineRes\obj\Debug\net7.0\AirlineRes.dll
+C:\Users\khbil\source\repos\AirlineRes\obj\Debug\net7.0\refint\AirlineRes.dll
+C:\Users\khbil\source\repos\AirlineRes\obj\Debug\net7.0\AirlineRes.pdb
+C:\Users\khbil\source\repos\AirlineRes\obj\Debug\net7.0\AirlineRes.genruntimeconfig.cache
+C:\Users\khbil\source\repos\AirlineRes\obj\Debug\net7.0\ref\AirlineRes.dll

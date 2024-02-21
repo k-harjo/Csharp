@@ -1,0 +1,11 @@
+C:\Users\khbil\source\repos\17.3_StudentGrades\obj\Debug\17.3_StudentGrades.csproj.AssemblyReference.cache
+C:\Users\khbil\source\repos\17.3_StudentGrades\obj\Debug\17.3_StudentGrades.csproj.SuggestedBindingRedirects.cache
+C:\Users\khbil\source\repos\17.3_StudentGrades\obj\Debug\_17._3_StudentGrades.frmGrades.resources
+C:\Users\khbil\source\repos\17.3_StudentGrades\obj\Debug\_17._3_StudentGrades.Properties.Resources.resources
+C:\Users\khbil\source\repos\17.3_StudentGrades\obj\Debug\17.3_StudentGrades.csproj.GenerateResource.cache
+C:\Users\khbil\source\repos\17.3_StudentGrades\obj\Debug\17.3_StudentGrades.csproj.CoreCompileInputs.cache
+C:\Users\khbil\source\repos\17.3_StudentGrades\bin\Debug\17.3_StudentGrades.exe.config
+C:\Users\khbil\source\repos\17.3_StudentGrades\bin\Debug\17.3_StudentGrades.exe
+C:\Users\khbil\source\repos\17.3_StudentGrades\bin\Debug\17.3_StudentGrades.pdb
+C:\Users\khbil\source\repos\17.3_StudentGrades\obj\Debug\17.3_StudentGrades.exe
+C:\Users\khbil\source\repos\17.3_StudentGrades\obj\Debug\17.3_StudentGrades.pdb
